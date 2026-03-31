@@ -45,8 +45,18 @@ x(n)=a^n sin⁡(ωn)
 
 # MATLAB CODE:
 
+<img width="402" height="687" alt="Screenshot 2026-03-31 145852" src="https://github.com/user-attachments/assets/554733a2-fd21-424e-95f9-bcaeb625636b" />
+<img width="328" height="692" alt="Screenshot 2026-03-31 145900" src="https://github.com/user-attachments/assets/66bdf487-bef3-400f-98a0-5fb5edfc47ef" />
+<img width="406" height="40" alt="Screenshot 2026-03-31 145908" src="https://github.com/user-attachments/assets/70ff7205-1d75-4ab4-af4f-8e5fedecc0be" />
 
 # OUTPUT GRAPH:
+
+<img width="1022" height="694" alt="Screenshot 2026-03-31 143730" src="https://github.com/user-attachments/assets/612ee830-9c35-44ac-95b2-6c03738c7ff2" />
+<img width="1032" height="684" alt="Screenshot 2026-03-31 143800" src="https://github.com/user-attachments/assets/60b495c2-4541-42e5-8eff-96eae9430a16" />
+<img width="1011" height="683" alt="Screenshot 2026-03-31 143818" src="https://github.com/user-attachments/assets/11fa1193-0ed7-4de4-88f9-5fec0b428487" />
+<img width="1018" height="690" alt="Screenshot 2026-03-31 143829" src="https://github.com/user-attachments/assets/778a9576-9d8b-4ba8-8efd-26776ca926c6" />
+<img width="1016" height="684" alt="Screenshot 2026-03-31 143848" src="https://github.com/user-attachments/assets/69033c41-51f4-4359-b691-3bc8825f9d9e" />
+<img width="1014" height="682" alt="Screenshot 2026-03-31 143903" src="https://github.com/user-attachments/assets/c163ad4e-68ba-4033-85b4-57687306a3b4" />
 
 # Result :
 Thus, standard discrete-time signals were successfully generated and plotted using MATLAB.
