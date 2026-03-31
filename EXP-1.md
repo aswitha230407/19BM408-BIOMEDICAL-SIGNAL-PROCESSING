@@ -46,8 +46,7 @@ x(n)=a^n sin⁡(ωn)
 # MATLAB CODE:
 
 <img width="402" height="687" alt="Screenshot 2026-03-31 145852" src="https://github.com/user-attachments/assets/554733a2-fd21-424e-95f9-bcaeb625636b" />
-<img width="328" height="692" alt="Screenshot 2026-03-31 145900" src="https://github.com/user-attachments/assets/66bdf487-bef3-400f-98a0-5fb5edfc47ef" />
-<img width="406" height="40" alt="Screenshot 2026-03-31 145908" src="https://github.com/user-attachments/assets/70ff7205-1d75-4ab4-af4f-8e5fedecc0be" />
+<img width="440" height="690" alt="Screenshot 2026-03-31 150946" src="https://github.com/user-attachments/assets/5c6802f1-d496-459a-8230-a0e6170b1e70" />
 
 # OUTPUT GRAPH:
 
